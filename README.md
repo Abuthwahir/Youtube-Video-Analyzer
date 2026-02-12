@@ -62,7 +62,6 @@ The extension operates through a client-server architecture. The frontend is a R
 
 5.  **Backend Processing (Analysis):**
     *   **`backend/server.js`**: The Express server listens for requests. The `/analyze` route handler receives the video URL.
-    *   **Logic (Assumed):** The backend uses a library like `ytdl-core` to scrape metadata (title, description, tags, stats) from the YouTube page.
     *   **Response:** The server sends back a JSON object containing the extracted video data.
 
 6.  **Displaying Results:**
