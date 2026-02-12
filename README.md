@@ -228,25 +228,6 @@ To run this project, you need to have two things running at the same time: the b
     *   The extension will appear in your list. Pin it to your toolbar for easy access.
     *   **Note:** You must run `npm run build` in the root directory at least once to create the `build` folder before loading the extension.
 
-## Development Workflow & Common Tasks
-
-*   **Adding a New Feature:**
-    1.  **UI:** Modify components in `src/` (likely `App.jsx`) to add new UI elements.
-    2.  **Backend:** If new data is needed, add a new route in `backend/server.js` and implement the corresponding logic.
-    3.  **Styling:** Add or update styles in `src/App.css`.
-    4.  **Rebuild:** Run `npm run build` in the root directory to update the extension files in the `build/` folder.
-    5.  **Reload:** Go to `chrome://extensions` and click the "Reload" button for the extension.
-
-*   **Debugging:**
-    *   **Popup UI:** Right-click the extension icon and select "Inspect popup". This opens Chrome DevTools for the popup's context.
-    *   **Backend:** View the console output in the terminal where you ran `npm start` for the backend. Use `console.log()` statements in `server.js` for debugging.
-
-*   **Testing:**
-    *   No test framework is currently configured. To add testing:
-    *   Install Jest and React Testing Library: `npm install --save-dev jest @testing-library/react @testing-library/jest-dom`
-    *   Configure Jest (e.g., `jest.config.js`).
-    *   Add a test script to `package.json`: `"test": "jest"`
-    *   Create test files like `App.test.js` to write unit and integration tests.
 
 *   **Building for Production:**
     *   Run `npm run build` in the root directory. This will create an optimized, production-ready build of the frontend in the `build/` directory. This directory is what you would zip and upload to the Chrome Web Store.
