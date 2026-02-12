@@ -33,8 +33,8 @@ The primary goal is to offer content creators, marketers, and curious viewers a 
 <img width="1756" height="902" alt="Screenshot 2026-02-12 103357" src="https://github.com/user-attachments/assets/6e741516-fd8f-4cb2-af5f-2cb3471fef76" />
 <img width="1773" height="913" alt="Screenshot 2026-02-12 103415" src="https://github.com/user-attachments/assets/f3c4c388-b47d-43bf-997a-fcdc88d60e64" />
 <img width="1756" height="920" alt="Screenshot 2026-02-12 103450" src="https://github.com/user-attachments/assets/e01deaa7-fe63-4841-9a06-338df5758daa" />
-<img width="1761" height="921" alt="Screenshot 2026-02-12 103536" src="https://github.com/user-attachments/assets/c439f664-51f2-42f4-a4be-7e498367ee4a" />
 <img width="439" height="600" alt="image" src="https://github.com/user-attachments/assets/6fd810ea-cb1a-4c4f-adb1-ccb84f801138" />
+<img width="1761" height="921" alt="Screenshot 2026-02-12 103536" src="https://github.com/user-attachments/assets/c439f664-51f2-42f4-a4be-7e498367ee4a" />
 
 
 
